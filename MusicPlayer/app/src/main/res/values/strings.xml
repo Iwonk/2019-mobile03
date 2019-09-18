@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MusicPlayer</string>
+    <string name="artist">Nella Kharisma</string>
+    <string name="song">Jaran Goyang</string>
 </resources>
