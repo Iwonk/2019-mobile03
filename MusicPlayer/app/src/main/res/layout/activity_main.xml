@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#000000"
+    android:background="#080c21"
     tools:context=".MainActivity">
 
     <ImageView
@@ -128,7 +128,7 @@
         android:text="@string/artist"
         android:textColor="#FFFFFF"
         android:paddingTop="10dp"
-        android:textSize="12dp"
+        android:textSize="16dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/titleSong" />
